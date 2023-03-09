@@ -1,5 +1,5 @@
 {
-  "name": "Astro-Md",
+  "name": "Crafty pandaMd",
   "version": "7.0.0",
   "description": "Multi device whatsapp bot.",
   "main": "index.js",
@@ -11,14 +11,14 @@
    },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/vihangayt0/Astro-MD-V6.git"
+"url": "git+https://github.com/Craftypanda001/mubashir-Astro-MD-V7"
 },
 "keywords": [
 "whatsapp"
 ],
 "author": "VihangaYT",
 "developer": "VihangaYT",
-"homepage": "https://github.com/vihangayt0/Astro-MD-V6",
+"homepage": "https://github.com/Craftypanda001/mubashir-Astro-MD-V7",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
 "pino": "^7.0.5",
