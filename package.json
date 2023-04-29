@@ -11,14 +11,14 @@
    },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Craftypanda001/mubashir-Astro-MD-V7"
+"url": "git+https://github.com/Craftypanda001/hasnain-Astro-MD-V7"
 },
 "keywords": [
 "whatsapp"
 ],
 "author": "VihangaYT",
 "developer": "VihangaYT",
-"homepage": "https://github.com/Craftypanda001/mubashir-Astro-MD-V7",
+"homepage": "https://github.com/Craftypanda001/hasnain-Astro-MD-V7",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
 "pino": "^7.0.5",
